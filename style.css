@@ -411,6 +411,8 @@ img {
 .project-card {
     padding: 30px;
     min-height: 270px;
+    display: flex;
+    flex-direction: column;
 }
 
 .project-card.featured {
