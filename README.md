@@ -6,7 +6,8 @@ A modern, responsive portfolio website built to showcase my projects, technical 
 
 ## Live Demo
 
-https://branden-cloud.github.io/portfolio-website/
+* GitHub Pages: https://branden-cloud.github.io/portfolio-website/
+* AWS (CloudFront): https://dld1wf5pl7tmj.cloudfront.net/
 
 ---
 
@@ -54,7 +55,7 @@ This portfolio highlights my work in front-end development and my transition int
 * Deployed a portfolio website using AWS S3 static hosting
 * Configured CloudFront for global content delivery
 * Managed cloud storage and public access settings
-* Troubleshoot deployment and configuration issues
+* Troubleshot deployment and configuration issues
 
 ---
 
