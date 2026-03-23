@@ -12,7 +12,7 @@ https://branden-cloud.github.io/portfolio-website/
 
 ## Overview
 
-This portfolio highlights my work in front-end development and my transition into cloud engineering. It focuses on clean design, responsive layouts, and real-world project presentation.
+This portfolio highlights my work in front-end development and my transition into cloud engineering. It focuses on clean design, responsive layouts, and real-world project deployment.
 
 ---
 
@@ -22,6 +22,8 @@ This portfolio highlights my work in front-end development and my transition int
 * CSS3
 * JavaScript
 * Git & GitHub
+* AWS S3
+* AWS CloudFront
 * Responsive Design
 
 ---
@@ -32,17 +34,27 @@ This portfolio highlights my work in front-end development and my transition int
 * Modern UI with clean layout and animations
 * Project showcase with live demos and GitHub links
 * Smooth scrolling and interactive navigation
-* GitHub activity integration
+* Integrated cloud-hosted project (AWS)
 
 ---
 
 ## Projects Included
 
 * Psychology Practice Website
+* AWS S3 Portfolio Deployment (Cloud Project)
 * Weather Application (API Integration)
 * Budget Tracker *(in progress)*
 * Habit Tracker *(in progress)*
 * Task Manager *(in progress)*
+
+---
+
+## Cloud Experience
+
+* Deployed a portfolio website using AWS S3 static hosting
+* Configured CloudFront for global content delivery
+* Managed cloud storage and public access settings
+* Troubleshoot deployment and configuration issues
 
 ---
 
@@ -52,8 +64,8 @@ This project is part of my journey into tech, focusing on:
 
 * Building real-world projects
 * Improving front-end development skills
-* Learning GitHub workflows and deployment
-* Preparing for cloud-based applications
+* Gaining hands-on experience with cloud technologies
+* Preparing for cloud-based and full-stack applications
 
 ---
 
@@ -62,7 +74,8 @@ This project is part of my journey into tech, focusing on:
 * Structuring scalable front-end projects
 * Creating responsive layouts with modern CSS
 * Working with APIs and dynamic data
-* Deploying websites using GitHub Pages
+* Deploying websites using GitHub Pages and AWS
+* Debugging layout and deployment issues
 
 ---
 
